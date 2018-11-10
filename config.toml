@@ -34,21 +34,25 @@ paginate = 5
 	url = "https://twitter.com/VishwasNavada"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com"
+	url = "https://linkedin.com/vishwas-navada-https://linkedin.com/vishwas-navada-91640487/"
 	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/+vishwasnavadab"
+	faicon = "youtube"
+	url = "https://www.youtube.com/channel/UCZcJ_eBk29HavlrkcnCLIjQ/"
 
 	[[params.navlinks]]
 	name = "About"
-	url = "about"
+	url = "about/"
 	
 	[[params.navlinks]]
 	name = "Blog"
-	url = ""
+	url = "post/"
 	
 	[[params.navlinks]]
 	name = "Tutorials"
 	url = "tutorial/"
 
+        [[params.navlinks]]
+        name = "Projects"
+        url = "projects/"
+ 
 
