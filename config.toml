@@ -34,7 +34,7 @@ paginate = 5
 	url = "https://twitter.com/VishwasNavada"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com/vishwas-navada-https://linkedin.com/vishwas-navada-91640487/"
+	url = "https://linkedin.com/vishwas-navada-91640487/"
 	[[params.socialbuttons]]
 	faicon = "youtube"
 	url = "https://www.youtube.com/channel/UCZcJ_eBk29HavlrkcnCLIjQ/"
