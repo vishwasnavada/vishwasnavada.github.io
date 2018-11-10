@@ -1,5 +1,5 @@
 
-baseurl = "http://example.com/"
+baseurl = "http://vishwasnavada.github.io/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -52,7 +52,4 @@ paginate = 5
 	name = "Tutorials"
 	url = "tutorial/"
 
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
 
