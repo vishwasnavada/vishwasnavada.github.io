@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Vishwas Navada&#39;s Blog</title>
-    <link>http://example.com/tutorials/</link>
+    <link>https://vishwasnavada.github.io/tutorials/</link>
     <description>Recent content in Tutorials on Vishwas Navada&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vishwasnavada.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
