@@ -1,5 +1,5 @@
 
-baseurl = "http://vishwasnavada.github.io/"
+baseurl = "https://vishwasnavada.github.io"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
