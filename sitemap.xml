@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vishwasnavada.github.io/projects/arduplane/</loc>
+    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vishwasnavada.github.io/about/about/</loc>
+    <lastmod>2018-11-10T22:51:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vishwasnavada.github.io/tutorials/first/</loc>
+    <lastmod>2018-11-10T20:23:51+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vishwasnavada.github.io/post/hello/</loc>
     <lastmod>2018-11-10T17:25:44+05:30</lastmod>
   </url>
   
   <url>
+    <loc>https://vishwasnavada.github.io/about/</loc>
+    <lastmod>2018-11-10T22:51:13+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vishwasnavada.github.io/post/</loc>
     <lastmod>2018-11-10T17:25:44+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishwasnavada.github.io/projects/</loc>
+    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,12 +47,18 @@
   
   <url>
     <loc>https://vishwasnavada.github.io/tutorials/</loc>
+    <lastmod>2018-11-10T20:23:51+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishwasnavada.github.io/tutorials/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vishwasnavada.github.io/</loc>
-    <lastmod>2018-11-10T17:25:44+05:30</lastmod>
+    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
     <priority>0</priority>
   </url>
   
