@@ -1,0 +1,52 @@
+baseurl = "http://example.com/"
+theme = "hugo-geo"
+relativeURLs = false
+languageCode = "en-us"
+title = "Vishwas Navada's Blog"
+disqusShortname = "shortcode-here"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	email = "vishwasnavada@gmail.com"
+
+	profilepic = "im/profPic.jpg"
+	
+	title = "Vishwas Navada"
+	subtitle = "Electronics and tech blog"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/vishwasnavada"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/VishwasNavada"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://linkedin.com"
+	[[params.socialbuttons]]
+	faicon = "google-plus"
+	url = "https://plus.google.com/+vishwasnavadab"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+	
+	[[params.navlinks]]
+	name = "Tutorials"
+	url = "tutorial/"
