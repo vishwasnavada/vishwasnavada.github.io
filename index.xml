@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishwas Navada&#39;s Blog</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Vishwas Navada&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Nov 2018 17:25:44 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.com/post/hello/</link>
+      <pubDate>Sat, 10 Nov 2018 17:25:44 +0530</pubDate>
+      
+      <guid>http://example.com/post/hello/</guid>
+      <description>This is my first post. In this blog I would like to tell about my adventures and experiments in electronics and other stuffs.</description>
+    </item>
+    
+  </channel>
+</rss>
