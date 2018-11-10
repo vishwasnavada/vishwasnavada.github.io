@@ -1,4 +1,3 @@
-
 baseurl = "https://vishwasnavada.github.io"
 theme = "hugo-geo"
 relativeURLs = false
