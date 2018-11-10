@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseurl = "http://example.com/"
 theme = "hugo-geo"
 relativeURLs = false
@@ -50,3 +51,8 @@ paginate = 5
 	[[params.navlinks]]
 	name = "Tutorials"
 	url = "tutorial/"
+=======
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+>>>>>>> a439c43b9ce6e2e1602dc70a60a1a5b8e06a2368
