@@ -1,65 +1,209 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://vishwasnavada.github.io/projects/arduplane/</loc>
-    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/about/about/</loc>
-    <lastmod>2018-11-10T22:51:13+05:30</lastmod>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/tutorials/first/</loc>
-    <lastmod>2018-11-10T20:23:51+05:30</lastmod>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/post/hello/</loc>
-    <lastmod>2018-11-10T17:25:44+05:30</lastmod>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/about/</loc>
-    <lastmod>2018-11-10T22:51:13+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/post/</loc>
-    <lastmod>2018-11-10T17:25:44+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/projects/</loc>
-    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/achivevements/achievements/</loc>
+      <lastmod>2018-12-05T01:03:39+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/tutorials/</loc>
-    <lastmod>2018-11-10T20:23:51+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/tutorials/</loc>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+05:30</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vishwasnavada.github.io/</loc>
-    <lastmod>2018-11-11T00:13:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/new-folder/post/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/new-folder/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/publication/person-re-id/</loc>
+      <lastmod>2015-09-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/achivevements/</loc>
+      <lastmod>2018-12-05T01:03:39+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/new-folder/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vishwasnavada.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Vishwas&#39;s website</title>
+    <link>https://vishwasnavada.github.io/home/</link>
+    <description>Recent content in Homes on Vishwas&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://vishwasnavada.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vishwasnavada.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi!   I&#39;m Vishwas.</title>
+      <link>https://vishwasnavada.github.io/home/hero/</link>
+      <pubDate>Sun, 25 Nov 2018 10:19:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vishwasnavada.github.io/home/about/</link>
+      <pubDate>Sun, 25 Nov 2018 09:30:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m an Electronics and Instrumentation engineer graduated from Bangalore Institute of Technology in 2017. I worked as Embedded Hardware Engineer in Openwater.in a spin-off startup from Instrumentation and Applied Physics department of Indian Institue of Science, Bangalore. Currently I&amp;rsquo;m working as a Mixed Signal Design Engineer at Robert Bosch Centre For Cyber Physical Systems, IISc, Bangalore</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://vishwasnavada.github.io/home/skills/</link>
+      <pubDate>Sun, 25 Nov 2018 10:45:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://vishwasnavada.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://vishwasnavada.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/posts/</guid>
+      <description> LoRa - Long range Communication for IoT  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vishwasnavada.github.io/home/projects/</link>
+      <pubDate>Wed, 05 Dec 2018 01:42:27 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/projects/</guid>
+      <description>IEncode Intelligent Encoder for Industrial Motors  Aug. 2018 to Sept. 2018
+Predictive maintenance of Industrial motors using Infineon&amp;rsquo;s high precision 3D magnetic sensor TLE-493D
+SewerSway  Sept. 2018 to Present
+Predictive maintenance of manholes using IoT and sensors
+UWB based localisation for drones  Apr. 2018 to Present
+Localisation of drones in GPS denied environments
+Automation and Data Acquisition from sensors of filtration unit  July 2017 to Apr.</description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>https://vishwasnavada.github.io/home/achievements/</link>
+      <pubDate>Wed, 05 Dec 2018 01:42:27 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/achievements/</guid>
+      <description>CPDM, IISc REIMAGINE WASTE Hackathon ReImagine Waste, CPDM, IISc. Sept. 2018 Won the special prize in the hackathon
+Sensing the world in all three dimensions Infineon Technologies and Hackster.io Sept. 2018 Won best project award in industrial category.
+International Ericsson Innovation Awards May 2017 Ericsson Semifinalist in the International Ericsson Awards 2017.
+MediaTek International IoT Challenge Feb. MediaTek and Angelhack 2017 - 3rd Prize
+CeBIT IoT Hackathon Dec. 2016 CeBIT India Winner of national level IoT hackathon</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vishwasnavada.github.io/home/contact/</link>
+      <pubDate>Wed, 05 Dec 2018 01:48:00 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

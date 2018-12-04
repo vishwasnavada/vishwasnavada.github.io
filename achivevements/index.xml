@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achivevements on Vishwas&#39;s website</title>
+    <link>https://vishwasnavada.github.io/achivevements/</link>
+    <description>Recent content in Achivevements on Vishwas&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Dec 2018 01:03:39 +0530</lastBuildDate>
+    
+	<atom:link href="https://vishwasnavada.github.io/achivevements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Achievements</title>
+      <link>https://vishwasnavada.github.io/achivevements/achievements/</link>
+      <pubDate>Wed, 05 Dec 2018 01:03:39 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/achivevements/achievements/</guid>
+      <description>##CPDM, IISc REIMAGINE WASTE Hackathon ReImagine Waste, CPDM, IISc. Sept. 2018 Won the special prize in the hackathon
+##Sensing the world in all three dimensions Infineon Technologies and Hackster.io Sept. 2018 Won best project award in industrial category.
+##International Ericsson Innovation Awards May 2017 Ericsson Semi�nalist in the International Ericsson Awards 2017.
+##MediaTek International IoT Challenge Feb. MediaTek and Angelhack 2017 - 3rd Prize
+##CeBIT IoT Hackathon Dec. 2016 CeBIT India Winner of national level IoT hackathon</description>
+    </item>
+    
+  </channel>
+</rss>
