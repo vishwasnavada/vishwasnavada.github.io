@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artworks on Vishwas&#39;s website</title>
+    <link>https://vishwasnavada.github.io/artworks/</link>
+    <description>Recent content in Artworks on Vishwas&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="https://vishwasnavada.github.io/artworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vishwasnavada.github.io/artworks/artworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/artworks/artworks/</guid>
+      <description> active = true date = 2019-06-025T01:42:27+05:30
+Note: a full width section format can be enabled by commenting out the title and subtitle with a #. title = &amp;ldquo;Artworks&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo;
+Order that this section will appear in. weight = 90 +++
+Roof by the end cliff </description>
+    </item>
+    
+  </channel>
+</rss>
