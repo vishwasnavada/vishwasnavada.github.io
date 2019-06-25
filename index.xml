@@ -87,6 +87,18 @@
     </item>
     
     <item>
+      <title>Artworks</title>
+      <link>https://vishwasnavada.github.io/artworks/artworks/</link>
+      <pubDate>Tue, 25 Jun 2019 01:42:27 +0530</pubDate>
+      
+      <guid>https://vishwasnavada.github.io/artworks/artworks/</guid>
+      <description>
+
+&lt;h2 id=&#34;roof-by-the-end-cliff-https-github-com-vishwasnavada-vishwasnavada-github-io-tree-master-img-roof-by-the-end-cliff-jpg&#34;&gt;&lt;a href=&#34;https://github.com/vishwasnavada/vishwasnavada.github.io/tree/master/img/Roof by the end cliff.jpg&#34; target=&#34;_blank&#34;&gt;Roof by the end cliff&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Achievements</title>
       <link>https://vishwasnavada.github.io/achivevements/achievements/</link>
       <pubDate>Wed, 05 Dec 2018 01:03:39 +0530</pubDate>
@@ -587,16 +599,6 @@ git submodule update --init --recursive
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
       
       <guid>https://vishwasnavada.github.io/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://vishwasnavada.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
-      
-      <guid>https://vishwasnavada.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

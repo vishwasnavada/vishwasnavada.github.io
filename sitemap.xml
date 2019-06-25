@@ -18,6 +18,14 @@
     
     <url>
     
+      <loc>https://vishwasnavada.github.io/artworks/artworks/</loc>
+      <lastmod>2019-06-25T01:42:27+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vishwasnavada.github.io/achivevements/achievements/</loc>
       <lastmod>2018-12-05T01:03:39+05:30</lastmod>
     </url>
@@ -114,13 +122,6 @@
     
     <url>
     
-      <loc>https://vishwasnavada.github.io/artworks/artworks/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vishwasnavada.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+05:30</lastmod>
       <priority>0</priority>
@@ -140,6 +141,7 @@
     <url>
     
       <loc>https://vishwasnavada.github.io/artworks/</loc>
+      <lastmod>2019-06-25T01:42:27+05:30</lastmod>
       <priority>0</priority>
     </url>
     

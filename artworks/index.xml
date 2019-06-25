@@ -7,20 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 01:42:27 +0530</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/artworks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Artworks</title>
       <link>https://vishwasnavada.github.io/artworks/artworks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Jun 2019 01:42:27 +0530</pubDate>
       
       <guid>https://vishwasnavada.github.io/artworks/artworks/</guid>
-      <description> active = true date = 2019-06-025T01:42:27+05:30
-Note: a full width section format can be enabled by commenting out the title and subtitle with a #. title = &amp;ldquo;Artworks&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo;
-Order that this section will appear in. weight = 90 +++
-Roof by the end cliff </description>
+      <description> Roof by the end cliff </description>
     </item>
     
   </channel>
