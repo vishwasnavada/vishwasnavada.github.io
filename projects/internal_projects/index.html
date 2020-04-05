@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.1.1">
+  <meta name="generator" content="Hugo 0.50" />
+  <meta name="author" content="Vishwas Navada B">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="DIY UPS for WiFi Router There are already around 50Billion internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to 7 Billion population.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://vishwasnavada.github.io/projects/internal_projects/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-129786322-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="https://vishwasnavada.github.io/index.xml" type="application/rss+xml" title="Vishwas&#39;s website">
+  <link rel="feed" href="https://vishwasnavada.github.io/index.xml" type="application/rss+xml" title="Vishwas&#39;s website">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://vishwasnavada.github.io/projects/internal_projects/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@VishwasNavada">
+  <meta property="twitter:creator" content="@VishwasNavada">
+  
+  <meta property="og:site_name" content="Vishwas&#39;s website">
+  <meta property="og:url" content="https://vishwasnavada.github.io/projects/internal_projects/">
+  <meta property="og:title" content=" | Vishwas&#39;s website">
+  <meta property="og:description" content="DIY UPS for WiFi Router There are already around 50Billion internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to 7 Billion population.">
+  
+  
+    
+  <meta property="og:image" content="https://vishwasnavada.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+  
+
+  <title> | Vishwas&#39;s website</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header fixed-top">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Vishwas&#39;s website</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/tutorial/">
+            
+            <span>DIY</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/projects/">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#achievements">
+            
+            <span>Achievements</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/artworks/">
+            
+            <span>Artworks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name"></h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Vishwas Navada B">
+  </span>
+  
+
+  <span class="article-date">
+    
+    <meta content="" itemprop="datePublished">
+    <time datetime="" itemprop="dateModified">
+      Jan 1, 0001
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Vishwas Navada B">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=&amp;url=https%3a%2f%2fvishwasnavada.github.io%2fprojects%2finternal_projects%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fvishwasnavada.github.io%2fprojects%2finternal_projects%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fvishwasnavada.github.io%2fprojects%2finternal_projects%2f&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fvishwasnavada.github.io%2fprojects%2finternal_projects%2f&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=&amp;body=https%3a%2f%2fvishwasnavada.github.io%2fprojects%2finternal_projects%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h3 id="diy-ups-for-wifi-router">DIY UPS for WiFi Router</h3>
+
+<p><img src="/img/wifi ups/1.jpg" alt="1" />
+There are already around <strong>50Billion</strong> internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to <strong>7 Billion</strong> population.
+In developing nations like India, power outages are common. But the currently due to COVID-19 breakout almost all the working class of its 1.3 Billion total population is doing work from home as social distancing is very much essential to avoid spreading of the virus. But when we face frequent power outages our internet is at stake as WiFi modem goes down. But these ADSL routers gets input from a telecom line or a fibre which will have the power even during power-cuts as their units have backups. A simple solution to this problem is designing an <strong>Online UPS system</strong> for routers which can directly switch over to the battery power in the case of power cuts.
+Our Design Goals:</p>
+
+<ol>
+<li>12V output Voltage</li>
+<li>Li-ion batteries (Preferably 18650 as they have the highest energy density in class)</li>
+<li>At least 1 hour of backup time.</li>
+</ol>
+
+<p>Supplies:
+<img src="/img/wifi ups/2.jpg" alt="2" /></p>
+
+<ol>
+<li>18650 batteries - 3 (3400mAh 3.7V) [I extracted from an old laptop battery you can also do that  if you have one]</li>
+<li>Battery balancer circuit  (3S 10A one is more than enough)</li>
+<li>2.1mm Jack male and female</li>
+<li>3D printer for printing the case</li>
+</ol>
+
+<h4 id="step-1-designing-the-case">Step 1: Designing the Case</h4>
+
+<p><img src="/img/wifi ups/6.png" alt="6" /></p>
+
+<p>To house these 18650 batteries safely and securely we need a case. I had built my 3D printer 3 years back which is serving all my casing needs. I used <a href="www.tinkercad.com" target="_blank">tinkercad.com</a> to design a simple case having required dimensions to house 3 18650 cells, battery balancer circuit and a 2.1mm jack. I designed it for 3S 18650 batteries if you want more backup time for different applications you can design it for the bigger pack by changing the z-axis height.
+I have given holes for M3 screw. You can alter this according to your requirement.
+Here&rsquo;s the Thingiverse repository link: <a href="https://www.thingiverse.com/thing:4254213" target="_blank">https://www.thingiverse.com/thing:4254213</a>
+<img src="/img/wifi ups/7.png" alt="7" />
+<img src="/img/wifi ups/8.jpg" alt="8" /></p>
+
+<h4 id="step-2-extracting-the-cells-from-old-laptop-batteries">Step 2: Extracting the Cells From Old Laptop Batteries</h4>
+
+<p><img src="/img/wifi ups/3.jpg" alt="3" /></p>
+
+<p>WARNING !!!! This process is dangerous as you are dealing with Li-ion batteries. Use required protective gears for your safety.
+Start from the one side of the battery with a flat tool such as a scalpel or a flat screwdriver and try to lift it from one side. Uniformly apply force by slowly moving ahead with your screwdriver tool and break open the plastic case. Once you are able to remove the case you&rsquo;ll be welcomed with 18650 battery pack.
+Use a plyer to remove the connections between them carefully.  Measure their voltages with a multimeter.
+If the reading is less than 3V it got discharged beyond repair. Due to these kinds of cells, only the whole battery pack won&rsquo;t be able to withstand the required energy. Hence you can reuse all other good batteries whose readings are beyond 3V.</p>
+
+<h5 id="step-3-making-the-battery-pack">Step 3: Making the Battery Pack</h5>
+
+<p><img src="/img/wifi ups/4.jpg" alt="4" /></p>
+
+<p>Based on your requirements you can make a bigger battery pack also. Here I&rsquo;m just using 3 cells to make a battery pack which is portable and can supply 12.6V with the capacity of 2700mAh. How did I deduce its 2700mAh?
+Here&rsquo;s the calculation.
+The laptop battery pack was printed with a label saying 90Wh (Yes it was a gaming laptop Dell XPS 15). I  was able to recover 9 cells. 3 cells in series will give 11.1V and 3 of these packs in parallel. Hence
+<strong>90Wh/(11.1*3) = 2.7Ah</strong>
+Hence If we build a battery pack with 3 cells in series it will have a capacity of 2700mAh at 11.1V
+i.e 30Wh.Which is enough to run my 24W ADSL router for  75 mins.
+<img src="/img/wifi ups/5.jpg" alt="5" />
+<strong>If your router is normal one i.e 6W one (12V at 500mA) then it will come for 5 hours. That&rsquo;s a lot in the emergency time.
+So do the math and build according to your requirement.</strong></p>
+
+<h5 id="step-4-connect-everything-and-deploy">Step 4: Connect Everything and Deploy</h5>
+
+<p><img src="/img/wifi ups/9.jpg" alt="9" /></p>
+
+<p>Now connect everything according to the schematics. Here you can observe that each cell&rsquo;s positive terminal is connected to the balancer circuit to have a proper battery balancing while charging and discharging. It&rsquo;s just like having the same diameter inlet pipes to all 3 water tanks to fill and empty them in the same rate.
+Solder everything according to the schematics and use hot glue to secure the female 2.1mm jack inside the 3D printed case. Then bring out 2.1mm male jack to connect to the router. Secure the lid with the M3 screws,
+Working: In normal operations, the battery will charge through the balancer circuit by the wall powered adaptor and adaptor will power the router.
+<img src="/img/wifi ups/9a.png" alt="9a" />
+<img src="/img/wifi ups/10.jpg" alt="10" />
+<strong>When there is no power the UPS comes into the picture and runs the router without any delay. It&rsquo;s a safe and clean way of recycling your old laptop battery.</strong>
+<img src="/img/wifi ups/14a.jpg" alt="14" /></p>
+
+    </div>
+
+    
+
+    
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  <img class="portrait mr-3" src="/img/profPic.jpg" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Vishwas Navada B</a></h5>
+    <h6 class="card-subtitle">R &amp; D Engineer </h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/#contact" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/VishwasNavada" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://www.youtube.com/channel/UCZcJ_eBk29HavlrkcnCLIjQ?" target="_blank" rel="noopener">
+          <i class="fab fa-youtube"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/vishwasnavada" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://www.quora.com/profile/Vishwas-Navada-B" target="_blank" rel="noopener">
+          <i class="fab fa-quora"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://www.linkedin.com/in/vishwas-navada-91640487/" target="_blank" rel="noopener">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/files/Vishwas%27s%20resume.pdf" >
+          <i class="ai ai-cv"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+
+    
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.74b0d3361475b08c40cf31120e82937b.js"></script>
+
+    
+
+  </body>
+</html>
+

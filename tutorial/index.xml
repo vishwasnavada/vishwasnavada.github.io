@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Vishwas&#39;s website</title>
+    <title>Tutorials on Vishwas&#39;s website</title>
     <link>https://vishwasnavada.github.io/tutorial/</link>
-    <description>Recent content in Overview on Vishwas&#39;s website</description>
+    <description>Recent content in Tutorials on Vishwas&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Page</title>
+      <title>DIY mini UPS for WiFi Router</title>
       <link>https://vishwasnavada.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0530</pubDate>
       
       <guid>https://vishwasnavada.github.io/tutorial/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <description>DIY UPS for WiFi Router There are already around 50Billion internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to 7 Billion population.</description>
     </item>
     
   </channel>
