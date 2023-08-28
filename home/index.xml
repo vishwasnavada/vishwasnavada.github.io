@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Hi!   I&#39;m Vishwas.</title>
       <link>https://vishwasnavada.github.io/home/hero/</link>
-      <pubDate>Sun, 25 Nov 2018 10:19:00 +0530</pubDate>
+      <pubDate>Sun, 25 Nov 2018 10:19:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/hero/</guid>
       <description></description>
@@ -33,17 +33,16 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/home/about/</link>
-      <pubDate>Tue, 09 Apr 2019 09:30:00 +0530</pubDate>
+      <pubDate>Tue, 09 Apr 2019 09:30:00 -0600</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m a Full stack Hardware design engineer. I work on things related to electronics, such as circuit designing, digital designing, Verilog coding, embedded coding, etc..yeah that&amp;rsquo;s what I do as a professional. As a hobbyist, I do much more than these things&amp;hellip;
-As we all know necessity is the mother of invention, I strongly believe that we engineers, are here to solve real life problems not to create one.</description>
+      <description>Biography I&amp;rsquo;m a Full stack Hardware design engineer. Currently, I&amp;rsquo;m pursuing my master&amp;rsquo;s degree in High-Speed Digital Engineering at the University of Colorado Boulder. I work on things related to electronics, such as high-speed board design, circuit design, digital design, Verilog development, embedded development, etc. Yeah that&amp;rsquo;s what I do as a professional. As a hobbyist, I do much more than these things.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://vishwasnavada.github.io/home/skills/</link>
-      <pubDate>Sun, 25 Nov 2018 10:45:00 +0530</pubDate>
+      <pubDate>Sun, 25 Nov 2018 10:45:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/skills/</guid>
       <description></description>
@@ -61,10 +60,11 @@ As we all know necessity is the mother of invention, I strongly believe that we 
     <item>
       <title>Recent Posts</title>
       <link>https://vishwasnavada.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/posts/</guid>
-      <description>Ham Radio Contest JULY - 2022 I participated in the annual HAM Radio competition here in Bengaluru and was able to make as many as 30 connections through the line of sight and repeater-assisted transmission. For the event, I used my homemade 4-element Yagi Antenna. I gave a talk on Edge AI - March 2022 I got an opportunity to give a talk on &amp;ldquo;Introduction to Edge AI&amp;rdquo; to 60+ 2nd Year Engineering Students of NIT AP, India.</description>
+      <description>I gave talk on IoT and Edge AI JUNE - 2023 I conducted a workshop on Internet of things and Edge AI for 11th standard students at my Alma mater Viveka Pre University College, Kota, Udupi. Students discussed their ideas and how they can implement them using opensource tools.
+Ham Radio Contest JULY - 2022 I participated in the annual HAM Radio competition here in Bengaluru and was able to make as many as 30 connections through the line of sight and repeater-assisted transmission.</description>
     </item>
     
     <item>
@@ -90,18 +90,18 @@ Bring Intelligence to the Real world by Microsoft, Avnet, Octonian and Hackster.
     </item>
     
     <item>
-      <title>Artworks</title>
+      <title></title>
       <link>https://vishwasnavada.github.io/home/artworks/</link>
       <pubDate>Tue, 25 Jun 2019 01:42:27 +0530</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/artworks/</guid>
-      <description> Elon Musk - June 2020 Pagoda - June 2020 Itomori from Kimi No Na Wa - May 2020 Radioactive - March 2020 Dacha - February 2020 I want some peace - November 2019 The beauty of nature - November 2019 Tribute to the Joker - October 2019 New York University - August 2019 I walk alone - June 2019 Tribute to Ironman - May 2019 Road to paradise - August 2018 Roof by the end of a cliff - July 2018 Tiger nest Monastery - July 2017 Paro bridge - March 2017 Long way ahead - September 2016 </description>
+      <description></description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://vishwasnavada.github.io/home/contact/</link>
-      <pubDate>Tue, 09 Apr 2019 01:48:00 +0530</pubDate>
+      <pubDate>Tue, 09 Apr 2019 01:48:00 -0600</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/contact/</guid>
       <description></description>
