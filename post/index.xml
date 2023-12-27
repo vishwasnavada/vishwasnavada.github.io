@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vishwas Navada&#39;s Blog</title>
+    <title>Posts on My Portfolio</title>
     <link>https://vishwasnavada.github.io/post/</link>
-    <description>Recent content in Posts on Vishwas Navada&#39;s Blog</description>
+    <description>Recent content in Posts on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Nov 2018 17:25:44 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>https://vishwasnavada.github.io/post/hello/</link>
-      <pubDate>Sat, 10 Nov 2018 17:25:44 +0530</pubDate>
+      <title>ECEN 5730 Practical PCB Design and Manufacture</title>
+      <link>https://vishwasnavada.github.io/post/example/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 -0700</pubDate>
       
-      <guid>https://vishwasnavada.github.io/post/hello/</guid>
-      <description>This is my first post. In this blog I would like to tell about my adventures and experiments in electronics and other stuffs.</description>
+      <guid>https://vishwasnavada.github.io/post/example/</guid>
+      <description>ECEN 5730 Practical PCB Design and Manufacture There are already around 50Billion internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to 7 Billion population.</description>
     </item>
     
   </channel>
