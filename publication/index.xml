@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>https://vishwasnavada.github.io/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/publication/person-re-id/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Mobile visual clothing search</title>
       <link>https://vishwasnavada.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>

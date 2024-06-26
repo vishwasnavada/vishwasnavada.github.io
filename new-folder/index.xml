@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/new-folder/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Coming Soon..!</title>
       <link>https://vishwasnavada.github.io/new-folder/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/publications_selected/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://vishwasnavada.github.io/new-folder/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/publications/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://vishwasnavada.github.io/new-folder/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/talks_selected/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/new-folder/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/talks/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Projects</title>
       <link>https://vishwasnavada.github.io/new-folder/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/projects/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Teaching</title>
       <link>https://vishwasnavada.github.io/new-folder/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -71,7 +71,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>https://vishwasnavada.github.io/new-folder/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/tags/</guid>
       <description></description>

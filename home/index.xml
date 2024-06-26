@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vishwasnavada.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Hi!   I&#39;m Vishwas.</title>
       <link>https://vishwasnavada.github.io/home/hero/</link>
-      <pubDate>Sun, 25 Nov 2018 10:19:00 -0700</pubDate>
+      <pubDate>Sun, 25 Nov 2018 10:19:00 -0800</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/hero/</guid>
       <description></description>
@@ -33,16 +33,16 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/home/about/</link>
-      <pubDate>Tue, 09 Apr 2019 09:30:00 -0600</pubDate>
+      <pubDate>Tue, 09 Apr 2019 09:30:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/about/</guid>
-      <description>Biography I work as a Full Stack Hardware Design Engineer and am currently enrolled in a master&amp;rsquo;s program for High-Speed Digital Engineering at the University of Colorado Boulder. My professional focus includes designing electronics encompassing high-speed board design, circuit design, digital design, Verilog development, embedded development, and more. Beyond my professional pursuits, my interests as a hobbyist extend far beyond these activities.</description>
+      <description>Biography I am a Full Stack Hardware Design Engineer currently pursuing a master&amp;rsquo;s degree in High-Speed Digital Engineering at the University of Colorado Boulder. My professional expertise covers high-speed board design, Signal integrity analysis, circuit design, digital design, Verilog development, embedded development, and more.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://vishwasnavada.github.io/home/skills/</link>
-      <pubDate>Sun, 25 Nov 2018 10:45:00 -0700</pubDate>
+      <pubDate>Sun, 25 Nov 2018 10:45:00 -0800</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/skills/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://vishwasnavada.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/posts/</guid>
       <description>Course work: ECEN 5534 Signal Integrity Measurements I got an opportunity to learn form signal integrity guru Prof. Eric Bogatin focusing on high speed signal integrity measurements and analysis. In this calss I learnt how to use VNA, ADS and some fundamentals of signal integrity measurements
@@ -101,7 +101,7 @@ Bring Intelligence to the Real world by Microsoft, Avnet, Octonian and Hackster.
     <item>
       <title>Contact</title>
       <link>https://vishwasnavada.github.io/home/contact/</link>
-      <pubDate>Tue, 09 Apr 2019 01:48:00 -0600</pubDate>
+      <pubDate>Tue, 09 Apr 2019 01:48:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/home/contact/</guid>
       <description></description>

@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Coming Soon..!</title>
       <link>https://vishwasnavada.github.io/new-folder/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/publications_selected/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://vishwasnavada.github.io/new-folder/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/publications/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://vishwasnavada.github.io/new-folder/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/talks_selected/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title></title>
       <link>https://vishwasnavada.github.io/new-folder/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/talks/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>Projects</title>
       <link>https://vishwasnavada.github.io/new-folder/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/projects/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Teaching</title>
       <link>https://vishwasnavada.github.io/new-folder/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/teaching/</guid>
       <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
@@ -80,7 +80,7 @@
     <item>
       <title>Tags</title>
       <link>https://vishwasnavada.github.io/new-folder/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/tags/</guid>
       <description></description>
@@ -207,7 +207,7 @@ Smart driver assistant system with pattern recognition and sensors&lt;/p&gt;
     <item>
       <title>DIY mini UPS for WiFi Router</title>
       <link>https://vishwasnavada.github.io/tutorial/example/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/tutorial/example/</guid>
       <description>
@@ -375,7 +375,7 @@ Won ÅFirrst prize in designing Åfixed wing aircraft on the occasion of Open Day 
     <item>
       <title>Example Talk</title>
       <link>https://vishwasnavada.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://vishwasnavada.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -399,7 +399,7 @@ Won ÅFirrst prize in designing Åfixed wing aircraft on the occasion of Open Day 
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://vishwasnavada.github.io/new-folder/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/new-folder/post/getting-started/</guid>
       <description>
@@ -771,7 +771,7 @@ git submodule update --init --recursive
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>https://vishwasnavada.github.io/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/publication/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -781,7 +781,7 @@ git submodule update --init --recursive
     <item>
       <title>Mobile visual clothing search</title>
       <link>https://vishwasnavada.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
       
       <guid>https://vishwasnavada.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
